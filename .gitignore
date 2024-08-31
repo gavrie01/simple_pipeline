@@ -1,1 +1,2 @@
+#declare here file for gitignore. Below is .env it contains my login and password to the source, so I am not pushing it
 .env
